@@ -1,4 +1,0 @@
-ni hao 
-hello world
-javascript
-typescript
